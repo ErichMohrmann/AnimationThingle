@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+  <item android:drawable="@drawable/R"
+        android:duration="100" />
+  <item android:drawable="@drawable/Ri"
+        android:duration="100" />
+  <item android:drawable="@drawable/Ris"
+        android:duration="100" />
+  <item android:drawable="@drawable/Rist"
+        android:duration="100" />
+  <item android:drawable="@drawable/Risto"
+        android:duration="100" />
+</animation-list>

@@ -28,6 +28,22 @@ namespace Animation
 		{
 		}
 		
+		public partial class Animation
+		{
+			
+			// aapt resource value: 0x7f040000
+			public const int animate_android = 2130968576;
+			
+			static Animation()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Animation()
+			{
+			}
+		}
+		
 		public partial class Attribute
 		{
 			
@@ -41,11 +57,55 @@ namespace Animation
 			}
 		}
 		
-		public partial class Layout
+		public partial class Drawable
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int Main = 2130837504;
+			public const int R = 2130837504;
+			
+			// aapt resource value: 0x7f020001
+			public const int Ri = 2130837505;
+			
+			// aapt resource value: 0x7f020002
+			public const int Ris = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int Rist = 2130837507;
+			
+			// aapt resource value: 0x7f020004
+			public const int Risto = 2130837508;
+			
+			static Drawable()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Drawable()
+			{
+			}
+		}
+		
+		public partial class Id
+		{
+			
+			// aapt resource value: 0x7f060000
+			public const int animated_android = 2131099648;
+			
+			static Id()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Id()
+			{
+			}
+		}
+		
+		public partial class Layout
+		{
+			
+			// aapt resource value: 0x7f030000
+			public const int Main = 2130903040;
 			
 			static Layout()
 			{
@@ -60,8 +120,8 @@ namespace Animation
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f030000
-			public const int app_name = 2130903040;
+			// aapt resource value: 0x7f050000
+			public const int app_name = 2131034112;
 			
 			static String()
 			{
